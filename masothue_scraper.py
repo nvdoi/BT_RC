@@ -39,4 +39,5 @@ df = pd.DataFrame(data)
 df.to_excel("ma_so_thue_trang_1.xlsx", index=False)
 
 print("✅ Đã lưu dữ liệu vào ma_so_thue_trang_1.xlsx")
+print("Đã lưu dữ liệu vào ma_so_thue_trang_1.xlsx")
 driver.quit()
