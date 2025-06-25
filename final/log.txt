@@ -1,0 +1,96 @@
+ Thành công: r08e17y79g | https://tracuuhoadon.fpt.com.vn/search.html
+ Lỗi: r46jvxmvxg | https://tracuuhoadon.fpt.com.vn/search.html | Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xeb3b03+62899]
+	GetHandleVerifier [0x0xeb3b44+62964]
+	(No symbol) [0x0xce10f3]
+	(No symbol) [0x0xd2980e]
+	(No symbol) [0x0xd29bab]
+	(No symbol) [0x0xd725c2]
+	(No symbol) [0x0xd4e554]
+	(No symbol) [0x0xd6fd81]
+	(No symbol) [0x0xd4e306]
+	(No symbol) [0x0xd1d670]
+	(No symbol) [0x0xd1e4e4]
+	GetHandleVerifier [0x0x1114793+2556483]
+	GetHandleVerifier [0x0x110fd02+2537394]
+	GetHandleVerifier [0x0xeda2fa+220586]
+	GetHandleVerifier [0x0xecaae8+157080]
+	GetHandleVerifier [0x0xed141d+184013]
+	GetHandleVerifier [0x0xebba68+95512]
+	GetHandleVerifier [0x0xebbc10+95936]
+	GetHandleVerifier [0x0xea6b5a+9738]
+	BaseThreadInitThunk [0x0x76cf5d49+25]
+	RtlInitializeExceptionChain [0x0x77a3d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77a3d021+561]
+
+ Thành công: rzmwy1yo4g | https://tracuuhoadon.fpt.com.vn/search.html
+ Thành công: B1HEIRR8N0WP | https://www.meinvoice.vn/tra-cuu/
+ Lỗi: PZH_FWQ4BN3 | https://www.meinvoice.vn/tra-cuu/ | Message: 
+
+ Thành công: VBHKSL682918 | https://www.meinvoice.vn/tra-cuu/
+ Lỗi: NII30XVQWNC | https://van.ehoadon.vn/TCHD?MTC= | tra_cuu_ehoadon() missing 1 required positional argument: 'url'
+ Lỗi: MHPLO8W6EMD | https://van.ehoadon.vn/TCHD?MTC= | tra_cuu_ehoadon() missing 1 required positional argument: 'url'
+ Lỗi: MIJ634K9JAD | https://van.ehoadon.vn/TCHD?MTC= | tra_cuu_ehoadon() missing 1 required positional argument: 'url'
+
+=== KẾT THÚC XỬ LÝ ===
+ ✓ Thành công: r08e17y79g | https://tracuuhoadon.fpt.com.vn/search.html
+ ! Lỗi: r46jvxmvxg | https://tracuuhoadon.fpt.com.vn/search.html | Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf73b03+62899]
+	GetHandleVerifier [0x0xf73b44+62964]
+	(No symbol) [0x0xda10f3]
+	(No symbol) [0x0xde980e]
+	(No symbol) [0x0xde9bab]
+	(No symbol) [0x0xe325c2]
+	(No symbol) [0x0xe0e554]
+	(No symbol) [0x0xe2fd81]
+	(No symbol) [0x0xe0e306]
+	(No symbol) [0x0xddd670]
+	(No symbol) [0x0xdde4e4]
+	GetHandleVerifier [0x0x11d4793+2556483]
+	GetHandleVerifier [0x0x11cfd02+2537394]
+	GetHandleVerifier [0x0xf9a2fa+220586]
+	GetHandleVerifier [0x0xf8aae8+157080]
+	GetHandleVerifier [0x0xf9141d+184013]
+	GetHandleVerifier [0x0xf7ba68+95512]
+	GetHandleVerifier [0x0xf7bc10+95936]
+	GetHandleVerifier [0x0xf66b5a+9738]
+	BaseThreadInitThunk [0x0x76cf5d49+25]
+	RtlInitializeExceptionChain [0x0x77a3d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77a3d021+561]
+
+ ✓ Thành công: rzmwy1yo4g | https://tracuuhoadon.fpt.com.vn/search.html
+ ✓ Thành công: B1HEIRR8N0WP | https://www.meinvoice.vn/tra-cuu/
+ ! Lỗi: PZH_FWQ4BN3 | https://www.meinvoice.vn/tra-cuu/ | Message: 
+
+ ✓ Thành công: VBHKSL682918 | https://www.meinvoice.vn/tra-cuu/
+ ✓ Thành công: NII30XVQWNC | https://van.ehoadon.vn/TCHD?MTC=
+ ! Lỗi: MHPLO8W6EMD | https://van.ehoadon.vn/TCHD?MTC= | Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf73b03+62899]
+	GetHandleVerifier [0x0xf73b44+62964]
+	(No symbol) [0x0xda10f3]
+	(No symbol) [0x0xde980e]
+	(No symbol) [0x0xde9bab]
+	(No symbol) [0x0xe325c2]
+	(No symbol) [0x0xe0e554]
+	(No symbol) [0x0xe2fd81]
+	(No symbol) [0x0xe0e306]
+	(No symbol) [0x0xddd670]
+	(No symbol) [0x0xdde4e4]
+	GetHandleVerifier [0x0x11d4793+2556483]
+	GetHandleVerifier [0x0x11cfd02+2537394]
+	GetHandleVerifier [0x0xf9a2fa+220586]
+	GetHandleVerifier [0x0xf8aae8+157080]
+	GetHandleVerifier [0x0xf9141d+184013]
+	GetHandleVerifier [0x0xf7ba68+95512]
+	GetHandleVerifier [0x0xf7bc10+95936]
+	GetHandleVerifier [0x0xf66b5a+9738]
+	BaseThreadInitThunk [0x0x76cf5d49+25]
+	RtlInitializeExceptionChain [0x0x77a3d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77a3d021+561]
+
+ ✓ Thành công: MIJ634K9JAD | https://van.ehoadon.vn/TCHD?MTC=
+
+=== KẾT THÚc Xử LÝ ===
