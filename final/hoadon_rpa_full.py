@@ -188,10 +188,10 @@ def extract_info_from_xml(xml_path):
         elif root.find(".//NDHDon") is not None and root.find(".//NBan") is not None:
             return parse_ehoadon(root)
         else:
-            log(f"❌ Không xác định được định dạng XML: {xml_path}")
+            log(f"Không xác định được định dạng XML: {xml_path}")
             return {}
     except Exception as e:
-        log(f"❌ Lỗi phân tích XML {xml_path}: {e}")
+        log(f"Lỗi phân tích XML {xml_path}: {e}")
         return {}
 
 # === 6. Xử LÝ DANH SÁCH HÓA ĐƠN ===
@@ -242,7 +242,7 @@ def process_all():
             record.update(invoice_data)
             record["Status"] = "success"
 
-            log(f" ✓ Thành công: {ma_tra_cuu} | {url}")
+            log(f"Thành công: {ma_tra_cuu} | {url}")
         except Exception as e:
             record.update({
                 "Số hóa đơn": 0,
@@ -259,7 +259,7 @@ def process_all():
                 "Status": "fail",
                 "Error": str(e)
             })
-            log(f" ! Lỗi: {ma_tra_cuu} | {url} | {e}")
+            log(f"Lỗi: {ma_tra_cuu} | {url} | {e}")
 
         results.append(record)
         stt += 1
